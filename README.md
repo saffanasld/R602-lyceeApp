@@ -46,13 +46,11 @@ La navigation entre les différentes pages se fera via la librairie expo-router.
 * `components/` : Composants réutilisables (`Liste.tsx`, `Description.tsx`, `Diagramme.tsx`).
 * `assets/` : Contient le fichier `data.json` (API).
 
-## 🎨 Design
+### 🎨 Palette de Couleurs
 
-L'application utilise une palette de couleurs spécifique :
-
-| Couleur | Code Hexa |
-| :--- | :--- | :--- |
-| **Marron** | `#5B3B1E` |
-| **Orange** | `#BC5727` |
+| Couleur | Code Hexa | 
+| :--- | :--- |
+| **Marron** | `#5B3B1E` | 
+| **Orange** | `#BC5727` | 
 | **Vert** | `#979E6C` |
 | **Beige** | `#EAE1CB` |
