@@ -1,4 +1,4 @@
-# 🎓 LycéeApp - Île-de-France
+## 🎓 LycéeApp
 
 LycéeApp est une application mobile développée avec **React Native** et **Expo**. Elle permet d'explorer et de visualiser les données des établissements scolaires d'Île-de-France à travers différentes statistiques et listes filtrées.
 
