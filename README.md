@@ -46,7 +46,7 @@ La navigation entre les différentes pages se fera via la librairie expo-router.
 * `components/` : Composants réutilisables (`Liste.tsx`, `Description.tsx`, `Diagramme.tsx`).
 * `assets/` : Contient le fichier `data.json` (API).
 
-### 🎨 Palette de Couleurs
+## 🎨 Palette de Couleurs
 
 | Couleur | Code Hexa | 
 | :--- | :--- |
